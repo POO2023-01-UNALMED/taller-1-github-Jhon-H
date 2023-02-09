@@ -1,1 +1,3 @@
 "Jhon, 19, aprender POO :)" 
+Porque git no sube directorios vacios, o eso parece
+Porque podemos tener conflictos
